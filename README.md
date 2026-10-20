@@ -31,8 +31,7 @@ Aghazadeh Ardebili, A., & Stella, M. Mapping how LLMs debate societal issues whe
 ---
 ## **Graphical Abstract**
 
-<img src="Graphical_Abstract.pdf" alt="Alt text"> 
-
+![Graphical Abstract](Graphical_Abstract.png)
 ---
 ## **Word count**
 Distributions of word count across opinion and reasoning summary layers for all models in the corpus. 
