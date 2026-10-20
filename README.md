@@ -22,7 +22,7 @@ This repository contains a **Dataset** and a **Pooling Data System** designed to
 
 The system enables users to specify both a **topic** and a **sociodemographic pool**, and to collect all LLM-generated texts that satisfy the corresponding pooling request. The resulting pooled corpus is then analysed to extract multiple layers of **structured semantic and affective information**.
 
-The repository is relative to Cognitive Digital Shadows (CDS), a synthetic corpus of about 190,000 LLM-generated debate records designed to study how large language models discuss socially sensitive issues under controlled prompt conditions.
+The repository is relative to Cognitive Digital Shadows (CDS), a synthetic corpus of about 226,364 LLM-generated debate records designed to study how large language models discuss socially sensitive issues under controlled prompt conditions.
 
 # Please cite this work if you use the pooling data system:
 Aghazadeh Ardebili, A., & Stella, M. Mapping how LLMs debate societal issues when shadowing human personality traits, sociodemographics and social media behavior [Preprint]. University of Trento, CogNosco Lab.
