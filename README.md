@@ -31,7 +31,7 @@ Aghazadeh Ardebili, A., & Stella, M. Mapping how LLMs debate societal issues whe
 ---
 ## **Graphical Abstract**
 
-<img src="Graphical_Abstract.png" alt="Alt text"> 
+<img src="Graphical_Abstract.pdf" alt="Alt text"> 
 
 ---
 ## **Word count**
